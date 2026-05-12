@@ -1,0 +1,5 @@
+actual,predicted,count,type
+Negative,Negative,877,True Negative
+Negative,Positive,160,False Positive
+Positive,Negative,153,False Negative
+Positive,Positive,810,True Positive

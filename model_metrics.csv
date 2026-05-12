@@ -1,0 +1,8 @@
+metric,value,class
+Accuracy,84.35,Overall
+Precision (Neg),85.0,Negative
+Precision (Pos),84.0,Positive
+Recall (Neg),85.0,Negative
+Recall (Pos),84.0,Positive
+F1 (Neg),85.0,Negative
+F1 (Pos),84.0,Positive
